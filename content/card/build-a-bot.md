@@ -16,4 +16,4 @@ tags: [Fundamentals, Bots, Architect, AI]
 workshop_url: https://workshop.genesys.com/workshops/Build-a-Bot/
 ---
 
-Learn how to Build a Bot using Genesys Dialog Engine!
+Learn how to Build a Bot using Genesys Dialog Engine now!
