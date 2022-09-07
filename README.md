@@ -8,7 +8,7 @@ This repository contains the template for workshop content associated with [Gene
 
 ## Prerequisites
 
-If you are developing workshop content you will need to copy the contents of this repository and merge this into your repository. You will also need to have Hugo installed.
+If you are developing workshop content you will need to copy the contents of this repository and merge this into your repository. You will also need to have Hugo installed
 
 ### Install Hugo
 
